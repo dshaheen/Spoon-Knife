@@ -7,3 +7,9 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+
+---
+
+### Dividend Graph iPhone app
+
+The [`DividendGraph/`](DividendGraph/) folder contains a SwiftUI iPhone app that looks up a stock's historical dividends and graphs them. See [its README](DividendGraph/README.md) for details.
